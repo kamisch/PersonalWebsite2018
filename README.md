@@ -4,9 +4,7 @@ This is site in currently under construction. It will be finished in a few weeks
 
 ### About Me
 
-I'm a student studying computer science at UNC_CH. 
-
-This website was first an idea of mine, but Comp 50H gave me time to actually starting this webstie. This Website is built on html, and css. Im the future I will add javascript. Also I might use node.js and angular js to futher develope my website in the future. Free free to navigate around and send me the feedback of the website to chengtw@live.unc.edu via email.
+My name is Chengtao Wang, but you can call me Chase. I study at University of North Carolina at Chapel Hill as an Computer Science undergraduate. 
 
 ### Current work experience
 
