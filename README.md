@@ -24,7 +24,7 @@ Play soccer and frisbee.
 Stock trading and cook. 
 I also do small art projects such as 3d rendering and photography. 
 
-### I take freelances requestion contact me for more information
+### I take freelance requests, contact me for more information
 ### Contact
 Uni Email : chengtw@live.unc.edu
 Personal Email : chengtwv2@gmail.com
