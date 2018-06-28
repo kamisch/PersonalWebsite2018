@@ -19,13 +19,13 @@ Summer GRA with Professor KMP at UNC Chapel Hill
 * Comp 411 - Computer Organization 
 * Comp 524 - Programming Language Concepts 
 
-### Things that im intersted in
+### Things that I do
 Mini programming projects such as making games and pc programs
 reading books in Business, Sci-FI, or biography genre
 play soccer and frisbee
 stock trading
 cook
-
+### I take freelances requestion contact me for more information
 ### Contact
 Uni Email : chengtw@live.unc.edu
 Personal Email : chengtwv2@gmail.com
