@@ -6,25 +6,16 @@ This is site in currently under construction. It will be finished in a few weeks
 
 I'm a student studying computer science at UNC_CH. 
 
-```markdown
-Syntax highlighted code block
+### Current work experience
 
-# Header 1
-## Header 2
-### Header 3
+Summer GRA with Professor KMP at UNC Chapel Hill 
 
-- Bulleted
-- List
+### Related Courses
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Comp 401 - Foundation of Programming
+* Comp 410 - Algorithm and Data Structure 
+* Comp 411 - Computer Organization 
+* Comp 524 - Programming Language Concepts 
 
 ### Jekyll Themes
 
