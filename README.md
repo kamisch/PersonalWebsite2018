@@ -42,6 +42,6 @@ Uni Email : chengtw@live.unc.edu
 Personal Email : chengtwv2@gmail.com
 LinkedIn: Chase (Chengtao) Wang
 
-This page is powered by Jekyll Themes from Github pages
+Reminder : This page is powered by the free Jekyll Themes from Github pages
 
 
