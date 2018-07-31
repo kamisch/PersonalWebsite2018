@@ -10,6 +10,18 @@ My name is Chengtao Wang, but you can call me Chase. I study at University of No
 
 Summer GRA with Professor KMP at UNC Chapel Hill 
 
+### Past work experiences
+
+University of North Carolina
+  - Programming Assistant 2017 - 2018
+  - Comp 401 Learning Assistant - (Fall 2017 Semester)
+  - Lab Assistant 2016 - 2017
+  
+### Projects and related works
+
+Can mainly be found on my github.
+https://github.com/kamisch
+
 ### Related Courses
 
 * Comp 401 - Foundation of Programming
@@ -17,17 +29,18 @@ Summer GRA with Professor KMP at UNC Chapel Hill
 * Comp 411 - Computer Organization 
 * Comp 524 - Programming Language Concepts 
 
-### Things that I do
-Mini programming projects such as making games and pc programs.
-Reading books in Business, Sci-FI, or biography genre.
-Play soccer and frisbee.
-Stock trading and cook. 
-I also do small art projects such as 3d rendering and photography. 
+### Interest and hobby
+* Mini programming projects such as making games and pc programs.
+* Reading books in Business, Sci-FI, or philosophy genre.
+* Play soccer and frisbee.
+* Stock trading
+* Culinary arts
+* mobile and computing techs
 
-### I take freelance requests, contact me for more information
 ### Contact
 Uni Email : chengtw@live.unc.edu
 Personal Email : chengtwv2@gmail.com
+LinkedIn: Chase (Chengtao) Wang
 
 This page is powered by Jekyll Themes from Github pages
 
