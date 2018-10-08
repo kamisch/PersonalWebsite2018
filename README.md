@@ -1,6 +1,6 @@
 ## Hi there, welcome!
 
-This is site in currently under construction. It will be finished in a few weeks. 
+This is a Temperare website untill I get my own domain. 
 
 ### About Me
 
@@ -9,8 +9,10 @@ My name is Chengtao Wang, but you can call me Chase. I study at University of No
 ### Current work experience
 
 Program Developer for Groupre
-  - Designing a class team builder system for college lecture rooms.
-  - Developing using flask web framework and JavaScript web interface.
+  -	Designing a class team builder system for college lecture rooms. 
+  -	Developing using flask web framework and JavaScript web interface.
+  - Writing new algorithms for better and faster student seating matches. 
+
 
 ### Past work experiences
 
