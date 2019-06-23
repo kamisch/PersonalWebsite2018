@@ -8,13 +8,13 @@ This is a Temperare website untill I get my own domain.
 
 Name: Chengtao Wang, but you can call me Chase. 
 I study at University of North Carolina at Chapel Hill as an Computer Science undergraduate. 
-
+*I'm passionate in helping people and solve modern problems using new emergin technologies*
 ### Current work experience
-
-
+Software Engineer Program at JPMorgan Chase
+  - Inprogress
 
 ### Past work experiences
-Program Developer for Groupre for UNC-CH
+Program Developer for Groupre at UNC-CH
   -	Designing a class team builder system for college lecture rooms. 
   -	Developing using flask web framework and JavaScript web interface.
   - Writing new algorithms for better and faster student seating matches. 
