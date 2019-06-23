@@ -5,9 +5,10 @@ This is a Temperare website untill I get my own domain.
 ### *last updated on Jun 23, 2019*
 
 ### About Me
-
 Name: Chengtao Wang, but you can call me Chase. 
+
 I study at University of North Carolina at Chapel Hill as an Computer Science undergraduate. 
+
 *I'm passionate in helping people and solve modern problems using new emergin technologies*
 ### Current work experience
 Software Engineer Program at JPMorgan Chase
