@@ -53,18 +53,15 @@ https://github.com/kamisch
 * Stor 435 - Intro to Probability
 
 ### Interest and hobby
-* Mini programming projects such as making games and pc programs.
-* Reading books in Business, Sci-FI, or philosophy genre.
-* Play soccer and frisbee.
-* Stock trading
+* web technologies such as angular.
+* game design.
+* Reading.
+* Excercising and frisbee.
 * Culinary arts
-* mobile and computing techs
+* photography
 
 ### Contact
-Uni Email : chengtw@live.unc.edu
-Personal Email : chengtwv2@gmail.com
-LinkedIn: Chase (Chengtao) Wang
-
-PS: This page is powered by the free Jekyll Themes from Github pages
-
+* Uni Email : chengtw@live.unc.edu
+* Personal Email : chengtwv2@gmail.com
+* LinkedIn: Chase (Chengtao) Wang
 
