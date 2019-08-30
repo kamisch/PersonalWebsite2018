@@ -1,4 +1,4 @@
-## OUTDATED: visit https://chasectwang.com 
+## OUTDATED: visit https://www.chasectwang.com/
 ### *last updated on Jun 23, 2019*
 
 ### About Me
